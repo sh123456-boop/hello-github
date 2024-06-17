@@ -11,6 +11,7 @@ public class A27 {
     static boolean visited[][];
     static int[][] A;
     static int N, M;
+    int D, E;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
